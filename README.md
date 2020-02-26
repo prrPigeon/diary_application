@@ -1,2 +1,1 @@
-#DiaryApp
-Simple diary app.
+Small diary Django application.
